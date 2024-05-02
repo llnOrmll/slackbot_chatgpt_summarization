@@ -1,6 +1,7 @@
+# Managing and Storing Content From URLs Using Slackapp and ChatGPT
+
 [Detailed information about this project is available here.](https://medium.com/@qwaq0213/managing-and-storing-content-from-urls-using-slackapp-and-chatgpt-20735c806d69)
 
-# Managing and Storing Content From URLs Using Slackapp and ChatGPT
 This project demonstrates how to create and deploy a Slackbot that retrieves URL links from articles shared within a Slack channel, extracts the paragraph text content from each shared link, sends the extracted text to ChatGPT for keyword generation and summarization, and stores the obtained information in a Google Sheets spreadsheet for easy access and organization.
 
 **Prerequisites**
